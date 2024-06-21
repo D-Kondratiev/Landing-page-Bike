@@ -1,4 +1,42 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# Responsive Landing Page
+
+## Introduction
+
+- [DEMO LINK](https://D-Kondratiev.github.io/Landing-page-bike/)
+
+This project is a responsive landing page built using HTML, SCSS, and BEM methodology. The goal is to provide a clean, responsive, and modular codebase that adheres to best practices in web development.
+
+## Technologies Used
+- HTML5
+- SCSS
+- BEM (Block Element Modifier) methodology for CSS naming
+## Getting Started
+### Prerequisites
+
+Make sure you have the following installed:
+
+- Node.js and npm (Node Package Manager)
+- Node.js (v14.18.2) and npm (Node Package Manager)
+
+### Installation
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/D-Kondratiev/Landing-page-bike.git
+   ```
+2. Navigate to the project directory:
+   ```sh
+   cd responsive-landing-page
+   ```
+3. Install dependencies:
+   ```sh
+   npm install
+   ```
+4. Run the development server:
+   ```sh
+   npm start
+   ```
+## Contributing
+Contributions are welcome! If you find any bugs or have suggestions for improvements, feel free to open an issue or submit a pull request.
+## License
+This project is licensed under the MIT License.
